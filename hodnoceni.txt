@@ -1,0 +1,4 @@
+xmifka00 100 (GUI, Makefile, Integrace projektu)
+xpator00 100 (Testování, Uživatelská příručka)
+xanton07 100 (Profiling, Makefile, Instalátor)
+xbalaz12 100 (Matematická knihovna, Dokumentace)

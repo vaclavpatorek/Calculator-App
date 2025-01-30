@@ -1,0 +1,74 @@
+Předběžný plán projektu
+
+
+Řešitelský tým: Calcify
+Zvolený jazyk: Python
+Rozsah: 5 týdnů
+
+
+Termíny:
+
+    Úvodní osobní schůzka                   07.03.2023
+        Rozdělení práce
+        Zpracování plánu projektu
+
+
+    Návrh částí – 1. týden                  20.03.2023 - 26.03.2023
+        Úvodní práce s repozitářem
+        Návrh testů pro TDD
+        Návrh GUI
+        Návrh matematické knihovny
+        Návrh programu pro Profiling
+
+
+    Implementace částí – 2. a 3. týden      27.03.2023 - 03.04.2023
+        Implementace TDD
+        Implementace GUI
+        Implementace matematické knihovny
+
+
+    Integrace – 4. týden                    04.04.2023 – 11.04.2023
+        Integrace částí projektu
+        Makefile
+        Dokumentace
+        Tvorba Instalátoru
+        Profiling
+
+
+    Testování – 5. týden                    12.04.2023 – 17.04.2023
+        Profiling
+        Testování GUI
+        Testování matematické knihovny
+        Testování výsledného produktu
+
+
+    Dokončení projektu                      17.04.2023
+
+
+    Finálizace – 5. týden                   17.04.2023 – 19.04.2023
+        Hodnocení
+        Plán x realita
+
+    Odevzdání projektu                      25.04.2023
+
+
+Přidělení úkolů členům týmu:
+    xmifka00 – Návrh a implementace GUI, Makefile, Integrace projektu
+    xpator00 – Návrh testů, implementace testů, Uživatelská příručka
+    xanton07 – Profiling, Makefile (Profiling), Instalátor
+    xbalaz12 - Návrh a implementace matematické knihovny, Dokumentace
+
+
+Komunikace: 
+    Hlavní komunikační kanál – Discord server
+    Nouzová komunikace - Kontakt přes telefon
+
+    Pravidla komunikace:
+        První osobní schůzka – 7. 3. 2023 20:00
+        Pravidelný pondělní meeting (10-20 minut) 15:00
+
+
+Správa verzí a repozitář
+    Správa verzí – Git
+    Repozitář - https://github.com/mifka01/ivs_project_02
+    Způsob kontroly - Email ivs.kontrola@gmail.com byl přidán do repozitáře

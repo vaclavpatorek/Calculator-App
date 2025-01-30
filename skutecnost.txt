@@ -1,0 +1,3 @@
+Vývoj probíhal z většiny dle plánu, avšak zpozdil se o týden kvůli vytížení členů týmu půlsemestrálními zkouškami. 
+Pondělní meetingy se přesunuly z 15:00 na 20:00 a část dokončování probíhala i poslední den před termínem.
+Tvorba Makefilu a Nápovědy se přesunula na poslední týden.
