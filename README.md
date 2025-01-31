@@ -1,8 +1,10 @@
-## Prostředí
-- Windows 64bit
+# Calculator-App
 
+## Overview
+**Calculator-App** is a simple command-line calculator that supports various mathematical operations. This program can perform:
 
-**Calcify**
-
-## Licence
-Tento program je poskytován pod licencí [GNU General Public License v3.0](https://github.com/mifka01/ivs_project_02/blob/main/LICENSE)
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Standard Deviation Calculation
